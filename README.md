@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! I'm Chris Robert Yeslin 😎</h1>
 
-<h3 align="center">💻 Software Developer | 🚀 Tech Explorer | 📍 Chennai, India</h3>
+<h3 align="center">💻 Software Developer | yeslin parker | 📍 Chennai, India</h3>
 
 <p align="center">  
   Passionate about learning programming 👨‍💻<br>
@@ -82,4 +82,4 @@
 
 ---
 
-<p align="center">✨ Keep Exploring | Keep Building | Keep Smiling ✨</p>
+<p align="center">✨ Keep Exploring | Keep Building | Keep Smiling | Anime ✨</p>
