@@ -57,9 +57,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="Leetcode" />
   </a>
   &nbsp;
-  <a href="https://www.hackerearth.com/@robertchemsit201" target="_blank">
+<!--   <a href="https://www.hackerearth.com/@robertchemsit201" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" alt="HackerEarth" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -82,4 +82,4 @@
 
 ---
 
-<p align="center">✨ Keep Exploring | Keep Building | Keep Smiling | Anime ✨</p>
+<p align="center">✨ Keep Exploring | Keep Building | Keep Smiling | Watch Anime ✨</p>
